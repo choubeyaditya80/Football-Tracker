@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: white no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#page-loader {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+}
+
+#content-container {
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.team-logo {
+    display: inline;
+    margin: 0 5px;
+}
+
+.team-logo>img {
+    width: 20px;
+    height: 20px;
+}
+
+.win {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid gray;
+    background-color: rgb(131, 216, 131);
+}
+
+.loss {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid gray;
+    background-color: rgb(206, 127, 127);
+}
+
+.draw {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid gray;
+    background-color: rgb(185, 182, 182);
+}

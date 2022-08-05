@@ -1,0 +1,672 @@
+{
+  "get": "standings",
+  "parameters": { "league": "78", "season": "2021" },
+  "errors": [],
+  "results": 1,
+  "paging": { "current": 1, "total": 1 },
+  "response": [
+    {
+      "league": {
+        "id": 78,
+        "name": "Bundesliga 1",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/78.png",
+        "flag": "https://media.api-sports.io/flags/de.svg",
+        "season": 2021,
+        "background": "https://img.bundesliga.com/tachyon/sites/2/2021/03/FCBSGE_2021_SH_0039-1-scaled.jpg?crop=0px,202px,2560px,1439px",
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 157,
+                "name": "Bayern Munich",
+                "logo": "https://media.api-sports.io/football/teams/157.png"
+              },
+              "points": 69,
+              "goalsDiff": 57,
+              "group": "Bundesliga",
+              "form": "WWWDD",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage)",
+              "all": {
+                "played": 29,
+                "win": 22,
+                "draw": 3,
+                "lose": 4,
+                "goals": { "for": 86, "against": 29 }
+              },
+              "home": {
+                "played": 15,
+                "win": 12,
+                "draw": 1,
+                "lose": 2,
+                "goals": { "for": 43, "against": 12 }
+              },
+              "away": {
+                "played": 14,
+                "win": 10,
+                "draw": 2,
+                "lose": 2,
+                "goals": { "for": 43, "against": 17 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+              },
+              "points": 63,
+              "goalsDiff": 33,
+              "group": "Bundesliga",
+              "form": "WWLDW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage)",
+              "all": {
+                "played": 30,
+                "win": 20,
+                "draw": 3,
+                "lose": 7,
+                "goals": { "for": 76, "against": 43 }
+              },
+              "home": {
+                "played": 15,
+                "win": 12,
+                "draw": 0,
+                "lose": 3,
+                "goals": { "for": 47, "against": 23 }
+              },
+              "away": {
+                "played": 15,
+                "win": 8,
+                "draw": 3,
+                "lose": 4,
+                "goals": { "for": 29, "against": 20 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 168,
+                "name": "Bayer Leverkusen",
+                "logo": "https://media.api-sports.io/football/teams/168.png"
+              },
+              "points": 52,
+              "goalsDiff": 26,
+              "group": "Bundesliga",
+              "form": "DWWLD",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage)",
+              "all": {
+                "played": 29,
+                "win": 15,
+                "draw": 7,
+                "lose": 7,
+                "goals": { "for": 68, "against": 42 }
+              },
+              "home": {
+                "played": 14,
+                "win": 8,
+                "draw": 2,
+                "lose": 4,
+                "goals": { "for": 35, "against": 21 }
+              },
+              "away": {
+                "played": 15,
+                "win": 7,
+                "draw": 5,
+                "lose": 3,
+                "goals": { "for": 33, "against": 21 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+              },
+              "points": 51,
+              "goalsDiff": 33,
+              "group": "Bundesliga",
+              "form": "WWDWD",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage)",
+              "all": {
+                "played": 29,
+                "win": 15,
+                "draw": 6,
+                "lose": 8,
+                "goals": { "for": 64, "against": 31 }
+              },
+              "home": {
+                "played": 15,
+                "win": 10,
+                "draw": 2,
+                "lose": 3,
+                "goals": { "for": 38, "against": 15 }
+              },
+              "away": {
+                "played": 14,
+                "win": 5,
+                "draw": 4,
+                "lose": 5,
+                "goals": { "for": 26, "against": 16 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 160,
+                "name": "SC Freiburg",
+                "logo": "https://media.api-sports.io/football/teams/160.png"
+              },
+              "points": 51,
+              "goalsDiff": 15,
+              "group": "Bundesliga",
+              "form": "WWLDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage)",
+              "all": {
+                "played": 30,
+                "win": 14,
+                "draw": 9,
+                "lose": 7,
+                "goals": { "for": 49, "against": 34 }
+              },
+              "home": {
+                "played": 15,
+                "win": 8,
+                "draw": 4,
+                "lose": 3,
+                "goals": { "for": 28, "against": 18 }
+              },
+              "away": {
+                "played": 15,
+                "win": 6,
+                "draw": 5,
+                "lose": 4,
+                "goals": { "for": 21, "against": 16 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 192,
+                "name": "FC Koln",
+                "logo": "https://media.api-sports.io/football/teams/192.png"
+              },
+              "points": 46,
+              "goalsDiff": 0,
+              "group": "Bundesliga",
+              "form": "WWLDW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification)",
+              "all": {
+                "played": 30,
+                "win": 12,
+                "draw": 10,
+                "lose": 8,
+                "goals": { "for": 44, "against": 44 }
+              },
+              "home": {
+                "played": 15,
+                "win": 8,
+                "draw": 4,
+                "lose": 3,
+                "goals": { "for": 24, "against": 19 }
+              },
+              "away": {
+                "played": 15,
+                "win": 4,
+                "draw": 6,
+                "lose": 5,
+                "goals": { "for": 20, "against": 25 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+              },
+              "points": 44,
+              "goalsDiff": 5,
+              "group": "Bundesliga",
+              "form": "LLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 29,
+                "win": 13,
+                "draw": 5,
+                "lose": 11,
+                "goals": { "for": 50, "against": 45 }
+              },
+              "home": {
+                "played": 14,
+                "win": 8,
+                "draw": 3,
+                "lose": 3,
+                "goals": { "for": 29, "against": 16 }
+              },
+              "away": {
+                "played": 15,
+                "win": 5,
+                "draw": 2,
+                "lose": 8,
+                "goals": { "for": 21, "against": 29 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+              },
+              "points": 44,
+              "goalsDiff": -1,
+              "group": "Bundesliga",
+              "form": "WWLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 29,
+                "win": 12,
+                "draw": 8,
+                "lose": 9,
+                "goals": { "for": 38, "against": 39 }
+              },
+              "home": {
+                "played": 14,
+                "win": 8,
+                "draw": 4,
+                "lose": 2,
+                "goals": { "for": 19, "against": 14 }
+              },
+              "away": {
+                "played": 15,
+                "win": 4,
+                "draw": 4,
+                "lose": 7,
+                "goals": { "for": 19, "against": 25 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+              },
+              "points": 39,
+              "goalsDiff": 7,
+              "group": "Bundesliga",
+              "form": "DLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 11,
+                "draw": 6,
+                "lose": 13,
+                "goals": { "for": 43, "against": 36 }
+              },
+              "home": {
+                "played": 15,
+                "win": 9,
+                "draw": 4,
+                "lose": 2,
+                "goals": { "for": 28, "against": 8 }
+              },
+              "away": {
+                "played": 15,
+                "win": 2,
+                "draw": 2,
+                "lose": 11,
+                "goals": { "for": 15, "against": 28 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+              },
+              "points": 39,
+              "goalsDiff": 0,
+              "group": "Bundesliga",
+              "form": "LDDWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 29,
+                "win": 10,
+                "draw": 9,
+                "lose": 10,
+                "goals": { "for": 40, "against": 40 }
+              },
+              "home": {
+                "played": 15,
+                "win": 4,
+                "draw": 5,
+                "lose": 6,
+                "goals": { "for": 17, "against": 19 }
+              },
+              "away": {
+                "played": 14,
+                "win": 6,
+                "draw": 4,
+                "lose": 4,
+                "goals": { "for": 23, "against": 21 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 163,
+                "name": "Borussia Monchengladbach",
+                "logo": "https://media.api-sports.io/football/teams/163.png"
+              },
+              "points": 37,
+              "goalsDiff": -13,
+              "group": "Bundesliga",
+              "form": "LWDWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 10,
+                "draw": 7,
+                "lose": 13,
+                "goals": { "for": 42, "against": 55 }
+              },
+              "home": {
+                "played": 15,
+                "win": 6,
+                "draw": 4,
+                "lose": 5,
+                "goals": { "for": 25, "against": 25 }
+              },
+              "away": {
+                "played": 15,
+                "win": 4,
+                "draw": 3,
+                "lose": 8,
+                "goals": { "for": 17, "against": 30 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 176,
+                "name": "VfL BOCHUM",
+                "logo": "https://media.api-sports.io/football/teams/176.png"
+              },
+              "points": 36,
+              "goalsDiff": -13,
+              "group": "Bundesliga",
+              "form": "LDWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 10,
+                "draw": 6,
+                "lose": 14,
+                "goals": { "for": 30, "against": 43 }
+              },
+              "home": {
+                "played": 15,
+                "win": 7,
+                "draw": 4,
+                "lose": 4,
+                "goals": { "for": 19, "against": 14 }
+              },
+              "away": {
+                "played": 15,
+                "win": 3,
+                "draw": 2,
+                "lose": 10,
+                "goals": { "for": 11, "against": 29 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+              },
+              "points": 34,
+              "goalsDiff": -17,
+              "group": "Bundesliga",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 10,
+                "draw": 4,
+                "lose": 16,
+                "goals": { "for": 34, "against": 51 }
+              },
+              "home": {
+                "played": 15,
+                "win": 6,
+                "draw": 2,
+                "lose": 7,
+                "goals": { "for": 18, "against": 19 }
+              },
+              "away": {
+                "played": 15,
+                "win": 4,
+                "draw": 2,
+                "lose": 9,
+                "goals": { "for": 16, "against": 32 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 170,
+                "name": "FC Augsburg",
+                "logo": "https://media.api-sports.io/football/teams/170.png"
+              },
+              "points": 32,
+              "goalsDiff": -13,
+              "group": "Bundesliga",
+              "form": "LLWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 8,
+                "draw": 8,
+                "lose": 14,
+                "goals": { "for": 34, "against": 47 }
+              },
+              "home": {
+                "played": 15,
+                "win": 6,
+                "draw": 4,
+                "lose": 5,
+                "goals": { "for": 22, "against": 21 }
+              },
+              "away": {
+                "played": 15,
+                "win": 2,
+                "draw": 4,
+                "lose": 9,
+                "goals": { "for": 12, "against": 26 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 159,
+                "name": "Hertha Berlin",
+                "logo": "https://media.api-sports.io/football/teams/159.png"
+              },
+              "points": 29,
+              "goalsDiff": -34,
+              "group": "Bundesliga",
+              "form": "WLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 30,
+                "win": 8,
+                "draw": 5,
+                "lose": 17,
+                "goals": { "for": 32, "against": 66 }
+              },
+              "home": {
+                "played": 15,
+                "win": 5,
+                "draw": 3,
+                "lose": 7,
+                "goals": { "for": 21, "against": 31 }
+              },
+              "away": {
+                "played": 15,
+                "win": 3,
+                "draw": 2,
+                "lose": 10,
+                "goals": { "for": 11, "against": 35 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 172,
+                "name": "VfB Stuttgart",
+                "logo": "https://media.api-sports.io/football/teams/172.png"
+              },
+              "points": 28,
+              "goalsDiff": -17,
+              "group": "Bundesliga",
+              "form": "DLDWD",
+              "status": "same",
+              "description": "Bundesliga (Relegation)",
+              "all": {
+                "played": 30,
+                "win": 6,
+                "draw": 10,
+                "lose": 14,
+                "goals": { "for": 36, "against": 53 }
+              },
+              "home": {
+                "played": 15,
+                "win": 5,
+                "draw": 3,
+                "lose": 7,
+                "goals": { "for": 25, "against": 30 }
+              },
+              "away": {
+                "played": 15,
+                "win": 1,
+                "draw": 7,
+                "lose": 7,
+                "goals": { "for": 11, "against": 23 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 188,
+                "name": "Arminia Bielefeld",
+                "logo": "https://media.api-sports.io/football/teams/188.png"
+              },
+              "points": 26,
+              "goalsDiff": -20,
+              "group": "Bundesliga",
+              "form": "LDLLL",
+              "status": "same",
+              "description": "Relegation - 2. Bundesliga",
+              "all": {
+                "played": 29,
+                "win": 5,
+                "draw": 11,
+                "lose": 13,
+                "goals": { "for": 23, "against": 43 }
+              },
+              "home": {
+                "played": 14,
+                "win": 2,
+                "draw": 8,
+                "lose": 4,
+                "goals": { "for": 13, "against": 18 }
+              },
+              "away": {
+                "played": 15,
+                "win": 3,
+                "draw": 3,
+                "lose": 9,
+                "goals": { "for": 10, "against": 25 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 178,
+                "name": "SpVgg Greuther Furth",
+                "logo": "https://media.api-sports.io/football/teams/178.png"
+              },
+              "points": 16,
+              "goalsDiff": -48,
+              "group": "Bundesliga",
+              "form": "LDDLL",
+              "status": "same",
+              "description": "Relegation - 2. Bundesliga",
+              "all": {
+                "played": 29,
+                "win": 3,
+                "draw": 7,
+                "lose": 19,
+                "goals": { "for": 24, "against": 72 }
+              },
+              "home": {
+                "played": 15,
+                "win": 3,
+                "draw": 5,
+                "lose": 7,
+                "goals": { "for": 13, "against": 26 }
+              },
+              "away": {
+                "played": 14,
+                "win": 0,
+                "draw": 2,
+                "lose": 12,
+                "goals": { "for": 11, "against": 46 }
+              },
+              "update": "2022-04-17T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}
